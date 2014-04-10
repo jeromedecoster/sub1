@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "git@github.com:jb55/async-each-series.git"
+    "url": "git@github.com:jb55/async-each-series.git"
   },
   "keywords": [
     "async",
